@@ -3,7 +3,7 @@
 
 A responsive multi-page marketplace website built with **HTML and CSS** that connects buyers and sellers across Africa.
 
-This platform allows users to explore products from different African countries and promotes local trade by helping sellers reach a wider audience.
+This platform allows users to explore products from different African countries and promotes local trade by helping sellers,farmer,manufacturers to reach a wider audience.
 
 ---
 
